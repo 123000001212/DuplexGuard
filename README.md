@@ -1,5 +1,6 @@
 # DuplexGuard: Safeguarding Deletion Right in Machine Unlearning via Duplex Watermarking
 This repo includes the pytorch implementation of DuplexGuard.
+![pipeline](pipeline.png)
 ## Environmental setup
 The recommended python version is 3.8.16.
 
