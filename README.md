@@ -17,6 +17,7 @@ Please refer to `exp.ipynb` for our example run on CIFAR-10 with ResNet-18.
 python main-SA.py --net="ResNet18" --dataset="CIFAR10" --data_path="/home/data" --eps=8 --patch_size=12
 ```
 ### Verify the unlearned model
+Modify `DATASET_NAME` and `DATA_PATH` to the correct path on your machine in `eval_p-value.py`.
 ```
 python eval_p-value.py --net="ResNet18" --dataset="CIFAR10" --data_path="/home/data" --eps=8 --patch_size=12
 ```
