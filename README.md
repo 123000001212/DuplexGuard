@@ -25,5 +25,13 @@ python eval_p-value.py --net="ResNet18" --dataset="CIFAR10" --data_path="/home/d
 ## Acknowledgments
 We would like to thank [*Sleeper Agent Repository*](https://github.com/hsouri/Sleeper-Agent) as their code helped us a lot.
 
-## Citations
-To be updated...
+## Citation
+```
+@article{zhang2024duplexguard,
+  title={DuplexGuard: Safeguarding Deletion Right in Machine Unlearning Via Duplex Watermarking},
+  author={Zhang, Xiaoyu and Zhang, Chenyang and Lou, Jian and Wu, Kai and Wang, Zilong and Chen, Xiaofeng},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2024},
+  publisher={IEEE}
+}
+```
